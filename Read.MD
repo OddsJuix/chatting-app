@@ -4,7 +4,7 @@ welcome to the worst best idea ever. this is a chat app. it works. probably.
 
 ## ❗ disclaimer
 
-use this wisely. if people start swearing, being gross, or just generally ruining the vibes too much, i *will* take the entire project down faster than your wifi disconnects.
+use this wisely. if people start swearing, being gross, or just generally ruining the vibes too much, i *will* take the entire project down faster than your wifi disconnects. This isnt out until May 19th or May 18th at 10 pm EST.
 
 ## 💸 pricing for chaos
 
@@ -17,7 +17,7 @@ because servers cost money, and i like burritos
 
 ## 🧠 dev brain time
 
-**how long this took:** 4 days  
+**how long this took:** 4 days 5 burritos and 2 hours of convincing Polo to stop buying robes
 **chance this blows up on google play:** 6/10  
 with chatrooms and some secret sauce coming later, it might go boom. or flop. who knows. but hey, we’re trying.
 
@@ -49,4 +49,8 @@ for the full legal wall of text, it's in the app and you gotta scroll to the bot
 
 ---
 
-**thank you for using this absolute mess of an app.**
+**thank you for using this absolute mess of an app**
+
+---
+
+# Coming May 19th!
